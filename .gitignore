@@ -1,0 +1,12 @@
+# Claude local settings
+.claude/
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor directories
+.idea/
+.vscode/
+*.iml
