@@ -1,0 +1,10 @@
+.git
+.claude
+system_queue
+thesis/.dart_tool
+thesis/build
+thesis/android
+thesis/ios
+thesis/linux
+thesis/macos
+thesis/windows
